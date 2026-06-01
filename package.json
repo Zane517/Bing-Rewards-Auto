@@ -14,7 +14,7 @@
     "automation",
     "playwright"
   ],
-  "author": "Zane",
+  "author": "Zane517",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/bing-rewards.git"
+    "url": "https://github.com/Zane517/Bing-Rewards-Auto.git"
   }
 }
