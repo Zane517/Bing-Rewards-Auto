@@ -18,7 +18,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/yourusername/bing-rewards.git
+git clone https://github.com/Zane517/Bing-Rewards-Auto.git
 cd bing-rewards
 npm install
 ```
