@@ -1,0 +1,13 @@
+# accounts.json - 多账号配置
+# 复制此文件为 accounts.json 并填入你的账号信息
+
+[
+  {
+    "name": "主号",
+    "email": "your-email@outlook.com",
+    "password": "your-password",
+    "enabled": true,
+    "pcSearchCount": 30,
+    "mobileSearchCount": 20
+  }
+]
